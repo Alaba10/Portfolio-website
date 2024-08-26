@@ -1,0 +1,15 @@
+/*styling*/
+nav{
+    padding: 0px;
+    margin: 0px;
+    background-color: aqua;
+    font-size: medium;
+    font-family: 'Lucida Sans',
+}
+img{
+    align-self: center;
+    size:25px;
+}
+
+
+
